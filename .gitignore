@@ -5,5 +5,8 @@ bin
 .project
 .settings
 s1index
-/src/main/resources/fake_env.properties
+/logs
+/.sbtserver
+/project/project/target
+/project/target
 _globallock
