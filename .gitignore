@@ -1,0 +1,9 @@
+/target
+.DS_Store
+.classpath
+bin
+.project
+.settings
+s1index
+/src/main/resources/fake_env.properties
+_globallock
